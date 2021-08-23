@@ -10,6 +10,8 @@
 - 💬 Ask me about **Laravel ,Vue**
 
 - 📫 How to reach me **https://www.facebook.com/hla.panhmway14/**
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panhmway&show_icons=true&theme=tokyonight)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
