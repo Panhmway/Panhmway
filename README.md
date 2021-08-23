@@ -1,6 +1,6 @@
+![alt text](https://github.com/Panhmway/Panhmway/blob/main/IMG_20200317_083711.jpg)
 <h1 align="center">Hi 👋, I'm Pan Hmway</h1>
 <h3 align="center">Web developer</h3>
-![alt text](https://github.com/Panhmway/Panhmway/blob/main/20191207_141045.jpg)
 <p align="left"> <a href="https://twitter.com/panhmway14" target="blank"><img src="https://img.shields.io/twitter/follow/panhmway14?logo=twitter&style=for-the-badge" alt="panhmway14" /></a> </p>
 
 - 🌱 I’m currently learning **React ,Vue & Friebase**
